@@ -230,8 +230,8 @@ async function getMessages(req: express.Request): Promise<any[]> {
   try {
     // Fetch raw messages from the main Cloud Run backend
     const [messagesRes, historyRes] = await Promise.all([
-      fetch(`https://banking-chatbot-571384310908.asia-southeast2.run.app/api/chat/messages?conversation_name=${encodeURIComponent(conversationName)}`).catch(() => null),
-      fetch(`https://banking-chatbot-571384310908.asia-southeast2.run.app/api/chat/history?conversation_name=${encodeURIComponent(conversationName)}`).catch(() => null),
+      fetch(`https://banking-chatbot-prod-571384310908.asia-southeast2.run.app/api/chat/messages?conversation_name=${encodeURIComponent(conversationName)}`).catch(() => null),
+      fetch(`https://banking-chatbot-prod-571384310908.asia-southeast2.run.app/api/chat/history?conversation_name=${encodeURIComponent(conversationName)}`).catch(() => null),
     ]);
 
     let rawMsgs: any[] = [];
@@ -709,7 +709,7 @@ app.all("/api/chat/:path", async (req, res, next) => {
   }
 
   try {
-    const targetUrl = `https://banking-chatbot-571384310908.asia-southeast2.run.app/api/chat/${subpath}${
+    const targetUrl = `https://banking-chatbot-prod-571384310908.asia-southeast2.run.app/api/chat/${subpath}${
       req.url.includes("?") ? req.url.substring(req.url.indexOf("?")) : ""
     }`;
 
