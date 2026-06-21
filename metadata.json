@@ -1,0 +1,8 @@
+{
+  "name": "Bank Jago Agent Assist Workspace Prod",
+  "description": "An Internal CRM Agent Workspace for Bank Jago, integrated with CCAI Agent Assist and the Jago Chatbot Cloud Run orchestrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

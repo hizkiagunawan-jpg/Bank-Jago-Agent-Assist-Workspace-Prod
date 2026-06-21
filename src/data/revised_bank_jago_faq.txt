@@ -1,0 +1,341 @@
+📂 SEKTOR 1: REGISTRASI, PERSYARATAN & AKTIVASI AKUN
+Bagaimana cara melakukan registrasi awal akun Jago Syariah dan apa saja yang perlu dipersiapkan?
+Untuk melakukan registrasi awal, kamu perlu mengunduh aplikasi Jago terlebih dahulu. Persiapkan dokumen fisik berupa e-KTP asli dan NPWP jika ada. Saat kamu melanjutkan ke tahap aktivasi panggilan video (video call), pastikan e-KTP asli berada di dekatmu untuk ditunjukkan kepada kru Jago, lalu ikuti seluruh petunjuk dari mereka.
+
+Bagaimana kalau saya belum memiliki atau menerima e-KTP fisik?
+Jika kamu belum memiliki e-KTP fisik asli, sayangnya kamu belum bisa membuat akun Jago Syariah karena ini merupakan prasyarat mutlak.
+Tips: Kamu tetap dapat menggunakan KTP biasa maupun e-KTP, selama masa berlakunya belum habis atau masih dalam masa berlaku.
+
+Bagaimana kalau saya belum memiliki atau belum menerima kartu NPWP?
+Kamu tetap dapat melanjutkan proses registrasi Jago tanpa harus menunjukkan NPWP. Caranya, cukup pilih opsi "Saya tidak memiliki NPWP" saat proses registrasi berlangsung. Namun, pihak Jago Syariah akan tetap meminta kembali data NPWP kamu setelah proses aktivasi akun dinyatakan berhasil.
+
+Apakah ada minimal saldo yang harus disetor saat pertama kali membuat akun Jago Syariah?
+Tidak ada! Kamu tidak perlu melakukan deposit atau menyetor uang dalam jumlah berapapun saat melakukan registrasi akun Jago Syariah. Saldo awal bisa dimulai dari Rp0.
+
+Apakah spesifikasi smartphone minimum yang harus dimiliki untuk mengoperasikan Aplikasi Jago?
+Untuk dapat menjalankan Aplikasi Jago dengan lancar, persyaratan spesifikasi minimum sistem operasi pada smartphone kamu adalah Android versi 5.0 ke atas atau iOS versi 10.0 ke atas.
+
+Apakah syarat utama untuk menjadi nasabah resmi Jago Syariah?
+Syarat utamanya adalah kamu harus merupakan Warga Negara Indonesia (WNI), sudah memiliki dokumen e-KTP asli, dan memiliki serta menggunakan smartphone yang mendukung spesifikasi aplikasi.
+
+Bagaimana cara mengatasi proses pendaftaran registrasi yang terhenti di tengah jalan?
+Kamu dapat melanjutkan proses registrasi yang sempat terhenti di tengah jalan, dengan catatan proses tersebut dilanjutkan dalam kurun waktu maksimal 24 jam dan menggunakan perangkat smartphone yang sama. Kamu diwajibkan mengulang proses registrasi dari awal jika kamu melakukan install ulang aplikasi atau mencoba melanjutkan registrasi di perangkat smartphone yang lain.
+
+Bagaimana jika proses registrasi akun saya selalu mengalami kegagalan?
+Kami meminta maaf atas kesulitan yang kamu hadapi. Jika registrasi selalu gagal, kamu bisa langsung menghubungi layanan Tanya Jago di nomor 1500 746. Tim customer service kami akan dengan senang hati membantu memandu proses registrasi kamu hingga selesai.
+
+Apakah ada tips khusus yang harus diperhatikan saat pendaftaran registrasi selalu gagal?
+Berikut ini adalah beberapa hal krusial yang wajib diperhatikan agar registrasi akun Jago Syariah berjalan lancar:
+1. Tuliskan alamat e-mail kamu dengan menggunakan huruf kecil semua (maksimal panjang 35 karakter).
+2. Ketik nomor telepon secara manual digit demi digit (jangan melakukan copy-paste dari daftar kontak di smartphone kamu) dan hindari penggunaan spasi.
+3. Jika kode verifikasi tidak kunjung terkirim, pastikan pengaturan tanggal dan waktu pada smartphone kamu diatur ke mode sinkronisasi otomatis (auto-sync).
+4. Pastikan foto e-KTP diambil dengan jelas dan sisinya tidak terpotong.
+5. Jangan mengulang berkali-kali menekan tombol dalam aplikasi. Tekan tombol sekali saja dan tunggu aplikasi bekerja. Menekan tombol secara berulang dalam waktu singkat dapat membuat sistem aplikasi Jago mengalami kendala teknis.
+
+Bagaimana jika saya tidak menerima kode verifikasi (OTP) melalui SMS?
+Kamu bisa meminta sistem untuk mengirimkan kode verifikasi baru dengan menekan tombol "Kirim Ulang". Jika kamu telah meminta kode baru sebanyak 3 kali berturut-turut namun belum masuk, harap tunggu terlebih dahulu selama 5 menit sebelum mencoba kembali, atau hubungi Tanya Jago di 1500 746 untuk mendapatkan bantuan teknis.
+
+Apakah Aplikasi Jago Syariah bisa digunakan oleh pelajar atau mahasiswa?
+Ya, tentu saja bisa. Jago Syariah terbuka untuk pelajar atau mahasiswa selama yang bersangkutan sudah memiliki dokumen e-KTP resmi sendiri.
+
+Bagaimana kalau e-KTP saya masih dalam proses pembuatan di kelurahan?
+Kamu hanya bisa menggunakan dokumen e-KTP fisik yang asli untuk proses registrasi. Jika e-KTP masih dalam proses pembuatan atau belum fisik asli, maka proses registrasi tidak dapat dilanjutkan.
+
+Bagaimana cara mengunduh Aplikasi Jago secara resmi?
+Kamu bisa mengunduh aplikasi Jago secara gratis ke smartphone kamu melalui layanan Play Store bagi pengguna perangkat Android, atau melalui App Store bagi pengguna perangkat iPhone.
+
+Bagaimana langkah-langkah detail untuk melakukan registrasi akun Jago Syariah?
+Buka aplikasi Jago yang telah berhasil diunduh, lalu ikuti langkah-langkah prosedural berikut:
+1. Pilih preferensi akun Jago Syariah, lalu tap tombol "Buat Account Jago Syariah" untuk memulai proses registrasi.
+2. Isi Nomor HP dan alamat Email kamu yang aktif untuk keperluan proses verifikasi sistem.
+3. Masukkan kode verifikasi (OTP) yang kamu terima melalui SMS pada nomor yang didaftarkan.
+4. Lanjutkan seluruh proses registrasi dengan mengikuti langkah-langkah yang diinstruksikan pada layar.
+Tip: Sebelum memulai, siapkan e-KTP dan NPWP (jika ada) di dekatmu untuk mempermudah pengisian data.
+
+Apakah setelah registrasi selesai, akun Jago Syariah bisa langsung digunakan bertransaksi?
+Kamu sudah dapat melakukan login ke dalam aplikasi Jago Syariah, tetapi kamu wajib melakukan tahapan aktivasi akun terlebih dahulu sebelum dapat melakukan transaksi perbankan. Instruksi aktivasi akan muncul pada bagian akhir proses registrasi.
+
+Berapa lama durasi waktu yang dibutuhkan untuk proses registrasi akun?
+Jika kamu sudah mempersiapkan e-KTP asli sejak awal, keseluruhan proses pengisian data registrasi hanya membutuhkan waktu kurang dari 10 menit.
+
+Apakah ada kriteria khusus tentang pembuatan password Jago Syariah yang aman?
+Password adalah kata sandi yang akan selalu ditanyakan saat kamu login dan mengeksekusi transaksi di Jago Syariah. Demi keamanan, password yang kamu buat wajib memenuhi kriteria berikut:
+   1. Terdiri dari minimal 9 karakter atau lebih.
+   2. Minimal memiliki satu huruf besar (kapital) dan satu huruf kecil.
+   3. Minimal memiliki satu karakter angka.
+
+Kenapa dokumen e-KTP harus difoto dan diunggah saat pendaftaran?
+Jago membutuhkan foto e-KTP kamu sebagai proses verifikasi validitas data diri, serta sebagai syarat mutlak pembukaan rekening perbankan yang diatur oleh ketentuan Otoritas Jasa Keuangan (OJK). Keamanan data kamu dijamin aman karena proses enkripsi dilakukan langsung di dalam sistem aplikasi Jago.
+
+Apakah ada kriteria alamat e-mail tertentu yang bisa digunakan untuk mendaftar?
+Kamu bisa menggunakan alamat email dari penyedia layanan apa saja, selama alamat email tersebut berstatus aktif dan masih rutin kamu gunakan.
+
+Berapa batas syarat penghasilan minimum untuk membuka akun Jago Syariah?
+Tidak ada syarat penghasilan minimum. Siapa saja bisa membuka akun Jago Syariah meskipun belum memiliki penghasilan tetap atau berpenghasilan Rp0.
+
+Apakah saya bisa mengubah akun Jago Syariah saya menjadi akun Jago konvensional di kemudian hari?
+Saat kamu sudah memilih menjadi nasabah Jago Syariah sejak awal, kamu tidak bisa mengubah preferensi akun kamu menjadi akun Jago konvensional. Jika ada ketentuan yang kurang jelas, silakan hubungi layanan Tanya Jago.
+
+Apakah perbedaan antara fitur pada mode akun Jago konvensional dan Jago Syariah?
+Jago menyediakan dua jenis preferensi mode akun yang dapat dipilih sesuai kebutuhan nasabah:
+   1. Jago (Konvensional): Memberikan imbalan berupa bunga yang menarik melalui Kantong Nabung dan Kantong Bayar. Pilihan ini menyediakan fitur Kantong Terkunci, di mana kamu bisa mengunci Kantong Nabung sesingkat 14 hari untuk mendapatkan suku bunga yang lebih tinggi.
+   2. Jago Syariah: Jenis akun Jago yang berjalan sepenuhnya menggunakan prinsip syariah Islam dengan landasan Akad Wadi'ah Yad Dhamanah. Kamu bisa menikmati hampir semua fitur inovatif Jago, namun fitur Kantong Terkunci dan Kantong RDN (Rekening Dana Nasabah) khusus untuk platform Stockbit tidak tersedia untuk mode Jago Syariah.
+
+Kenapa saya tidak bisa membuat atau memiliki 2 akun sekaligus (Jago Konvensional dan Jago Syariah)?
+Sesuai aturan operasional, setiap nasabah hanya diperbolehkan untuk memiliki 1 (satu) akun Jago per 1 nomor e-KTP. Kamu harus memilih salah satu preferensi sejak awal: apakah mode Jago konvensional atau Jago Syariah. Apa pun pilihannya, kamu tetap bisa mengelola keuangan secara mudah, inovatif, dan kolaboratif.
+
+Bagaimana cara melakukan proses aktivasi akun via Liveness Selfie?
+Untuk mengonfirmasi identitas aslimu, kamu wajib melakukan liveness check atau mengambil foto selfie wajah melalui kamera depan smartphone saat registrasi. Berikut tata cara mengambil selfie yang benar:
+   * Pastikan kamu berada di dalam ruangan dengan pencahayaan yang cukup terang.
+   * Pastikan koneksi internet Wi-Fi atau data seluler kamu berjalan stabil.
+   * Pastikan area wajah kamu jelas dan tidak tertutupi oleh aksesori apa pun (seperti masker atau kacamata hitam).
+   * Pastikan posisi seluruh wajah berada tepat di dalam lingkaran panduan yang ditampilkan di layar aplikasi.
+Jika liveness check gagal karena sistem tidak dapat memverifikasi, kamu akan diarahkan untuk melakukan panggilan video (video call) dengan agen Jago langsung di aplikasi. Pastikan kamu telah memberikan izin (allow) akses kamera dan mikrofon pada browser atau pengaturan smartphone kamu.
+
+Bagaimana cara melakukan proses aktivasi akun via Video Call?
+Silakan ikuti langkah-langkah berikut untuk mengaktifkan akun via video call dengan Live Agent Jago:
+   1. Tap tombol "Mulai Video Call" untuk memulai antrean panggilan.
+   2. Apabila muncul pop-up sistem yang meminta akses kamera dan mikrofon smartphone, pilih "Izinkan" (Allow).
+   3. Setelah terhubung dengan Rekan Jago, tunjukkan e-KTP asli kamu ke kamera dan ikuti seluruh instruksi verbal yang diberikan.
+   4. Setelah sesi selesai, Jago akan melakukan verifikasi dan mengirimkan email konfirmasi resmi apabila akun Jago Syariah kamu sudah dinyatakan aktif.
+Tip: Siapkan e-KTP fisik dan pastikan sinyal internet stabil sebelum memulai panggilan.
+
+Apakah proses aktivasi melalui Video Call dipungut biaya admin?
+Layanan panggilan video call dengan agen Jago tidak dipungut biaya apa pun dari pihak bank. Proses ini menggunakan koneksi internet data kamu, jadi pastikan kamu memiliki kuota internet yang mencukupi atau terhubung ke Wi-Fi.
+
+Kapan waktu operasional Live Agent Jago untuk melayani Video Call aktivasi?
+Tim Live Agent Jago selalu bersiap siaga untuk melayani dan membantu proses aktivasi akun Jago Syariah kamu selama 24 jam sehari dan 7 hari seminggu (24/7), termasuk hari libur.
+
+Apakah ada tips khusus agar proses aktivasi via Video Call berjalan lancar tanpa kendala?
+Tentu saja, pastikan kamu mengikuti tiga tips kenyamanan berikut:
+      1. Pastikan smartphone kamu memiliki indikator sinyal yang kuat atau terhubung ke koneksi Wi-Fi yang stabil.
+      2. Cari area ruangan yang memiliki pencahayaan yang bagus, terang, dan cerah agar wajah dan e-KTP terlihat jelas di kamera.
+      3. Pastikan volume speaker and mikrofon telepon berfungsi dengan baik sebelum panggilan dimulai.
+
+Bagaimana cara untuk memberikan izin akses mikrofon di smartphone?
+      * For Perangkat iOS (iPhone): Masuk ke menu Pengaturan > Safari > Pengaturan untuk Situs Web > Mikrofon > Pilih opsi "Izinkan" (Allow).
+      * For Perangkat Android: Tap ikon 3 titik di pojok kanan atas pada aplikasi browser Chrome > Pilih 'Pengaturan' > Pengaturan Situs > Mikrofon > Atur menjadi "Izinkan" (Allow).
+
+Bagaimana cara untuk memberikan izin akses kamera di smartphone?
+      * For Perangkat iOS (iPhone): Masuk ke menu Pengaturan > Safari > Pengaturan untuk Situs Web > Kamera > Pilih opsi "Izinkan" (Allow).
+      * For Perangkat Android: Tap ikon 3 titik di pojok kanan atas pada aplikasi browser Chrome > Pilih 'Pengaturan' > Pengaturan Situs > Kamera > Atur menjadi "Izinkan" (Allow).
+
+Mengapa akun Jago Syariah saya harus melalui proses aktivasi?
+Setelah tahap registrasi pengisian data selesai, status akun Jago Syariah kamu masih belum aktif secara komersial. Kamu belum bisa menerima transfer, mengirim uang, atau melakukan aktivitas perbankan lainnya. Aktivasi wajib dilakukan untuk memenuhi regulasi Know Your Customer (KYC) yang diharuskan oleh Otoritas Jasa Keuangan (OJK) agar akun kamu terhindar dari penyalahgunaan.
+
+Apakah setelah proses registrasi selesai saya masih bisa mengubah data diri yang keliru?
+Ya, kamu tetap bisa melakukan pembaruan data diri langsung dari aplikasi dengan langkah berikut:
+      1. Lakukan login terlebih dahulu ke dalam akun Jago Syariah kamu.
+      2. Pilih menu "Lainnya" yang terletak di halaman Beranda.
+      3. Tap pada bagian nama atau foto profil kamu di bagian atas layar.
+      4. Tap ikon "Pensil" yang berada di pojok kanan atas untuk masuk ke menu edit.
+      5. Silakan ubah data diri yang ingin disesuaikan, lalu tap ikon "Centang" di pojok kanan atas untuk menyimpan perubahan.
+
+Bagaimana cara mengetahui jika akun Jago Syariah saya sudah aktif dan bisa dipakai?
+Setelah tim Jago selesai melakukan verifikasi pada sesi video call atau liveness, Jago Syariah akan mengirimkan pemberitahuan resmi berupa email konfirmasi ke alamat email terdaftar yang menyatakan akun kamu telah aktif.
+
+
+💸 SEKTOR 2: CARA TAMBAH UANG (TOP UP) VIA BI-FAST & TRANSFER MASTER GUIDE
+Bagaimana cara tambah uang ke Jago Syariah dari bank lain pakai metode BI-FAST atau nomor rekening secara detail?
+Kamu bisa melakukan pengisian saldo dari berbagai aplikasi mobile banking bank lain di Indonesia menggunakan nomor Kantong Jago Syariah atau nomor rekening Jago Syariah kamu. Berikut adalah panduan langkah demi langkah berdasarkan masing-masing bank pengirim:
+* Aladin via BI-FAST, Allobank via BI-FAST, BNC, Blu by BCA Digital via BI-FAST, Digibank via BI-FAST, Hijra Bank, Jenius BTPN, Seabank via BI-FAST, TMRW by UOB, BNI via BI-FAST, BRImo via BI-FAST, BSI via BI-FAST, BTN via BI-FAST, Danamon via BI-FAST, Livin Mandiri via BI-FAST, BCA Mobile via BI-FAST, Bank Mega via BI-FAST, Maybank via BI-FAST, Muamalat, MyBCA via BI-FAST, CIMB Niaga, OCBC NISP, Permata, Bank Raya. Pilih bank tujuan Jago Syariah, masukkan nomor Kantong, pilih metode BI-FAST, masukkan nominal dan PIN.
+
+Bagaimana cara transfer menggunakan layanan Internet Banking resmi dari bank lain?
+Format proxy khusus: 7460 + nomor ponsel (Contoh: 746008991234567). BNI, CIMB Clicks, KlikBCA, Mandiri Internet Banking: Masuk menu Transfer Dalam Negeri/Antar Bank, pilih Bank Jago, masukkan rekening Jago, isi nominal, selesaikan dengan PIN/token.
+
+Bagaimana cara transfer dari mesin ATM ke Jago Syariah?
+1. Masukkan kartu ATM dan PIN.
+2. Pilih Transaksi Lainnya > Transfer > Transfer Ke Bank Lain.
+3. Masukkan Kode Bank Jago yaitu 542.
+4. Masukkan nomor rekening tujuan dengan format: 542 + nomor Kantong Jago Syariah kamu (atau 542 + 7460 + nomor ponsel).
+5. Masukkan nominal uang, periksa nama pemilik akun, pilih Ya.
+
+Bagaimana cara melakukan transfer dana ke Jago menggunakan fitur SMS Banking (BNI & BRI)?
+* BNI SMS Banking: Ketik TRF(spasi)ANTARBANK(spasi)542+Nomor Kantong(spasi)nominal(spasi)#No Referensi# kirim ke 3346.
+* BRI SMS Banking: Ketik TRANSFER(spasi)542+nomor Kantong(spasi)Nominal(spasi)PIN kirim ke 3300.
+
+
+Bagaimana cara melakukan transfer uang dari Bank Jago ke bank lain?
+Untuk mengirim uang ke rekening bank lain:
+1. Pilih menu "Kirim & Bayar" di halaman Beranda aplikasi Jago Anda.
+2. Ketuk "Kontak Baru" atau pilih dari daftar kontak yang sudah disimpan.
+3. Masukkan nama bank tujuan dan nomor rekening penerima.
+4. Tentukan nominal transfer, lalu pilih metode transfer (seperti BI-FAST dengan biaya Rp2.500 atau Real-Time Online).
+5. Tinjau ulang seluruh informasi transaksi, masukkan PIN Jago Anda untuk mengautentikasi dan merampungkan transfer.
+
+Kenapa saya tidak bisa melakukan transfer atau gagal kirim uang dari Bank Jago ke bank lain?
+Jika transfer antarbank Anda mengalami gangguan atau ditolak, periksa beberapa faktor pemicu berikut:
+1. Akun Belum Teraktivasi (KYC): Pastikan registrasi dan video call aktivasi akun Anda sudah selesai. Jika belum, fungsionalitas kirim uang masih terkunci.
+2. Saldo Kantong Kurang: Pastikan saldo Kantong yang terpilih sebagai sumber dana mencukupi nilai transfer beserta biaya admin (jika kuota gratis bulanan Anda habis).
+3. Batas Limit Harian Terlampaui: Periksa setelan limit harian di menu internal keamanan Jago Anda. Transfer di atas limit wajib memasukkan password akun.
+4. Jaringan Bank Penerima Down: Adakalanya bank tujuan mengalami maintenance sistem real-time online. Anda dapat mencoba lagi beberapa saat kemudian atau menggunakan rute BI-FAST.
+
+
+📱 SEKTOR 3: FITUR APLIKASI, QRIS, KEAMANAN & MANAJEMEN PERANGKAT
+Bagaimana cara melihat nomor Kantong Utama Jago Syariah milik saya?
+1. Pilih menu "Lainnya" di halaman Beranda.
+2. Tap nama atau foto profil kamu.
+3. Nomor rekening Kantong Utama akan tertera di bawah nomor telepon terdaftar.
+
+Bagaimana cara melihat nomor Kantong Nabung dan Kantong Bayar spesifik di aplikasi?
+1. Pilih menu "Kantong" dari halaman Beranda.
+2. Tap kantong spesifik yang diinginkan.
+3. Tap ikon tiga titik (...) di pojok kanan atas > "Tentang Kantong ini".
+
+Apakah yang dimaksud dengan fitur transaksi pembayaran QRIS Jago?
+QRIS adalah kode QR standar nasional dari Bank Indonesia untuk transaksi digital instan di merchant mana pun di seluruh Indonesia.
+
+Bagaimana cara melakukan pembayaran QRIS dengan melakukan scan kode QR merchant secara langsung?
+1. Pilih "Pembayaran QR" dari Beranda.
+2. Arahkan kamera ke QR code merchant dan input nominal (jika tidak otomatis), lalu ketuk "Bayar Sekarang".
+
+Bagaimana cara melakukan pembayaran QRIS dengan mengunggah gambar kode QR dari galeri ponsel?
+1. Pilih "Pembayaran QR" dari Beranda, lalu ketuk "Upload".
+2. Pilih gambar kode QR dari galeri, isi nominal, lalu pilih "Bayar Sekarang".
+
+Apakah faktor yang menyebabkan transaksi pembayaran QRIS saya mengalami kegagalan?
+Kode QR rusak, tidak berstandar QRIS BI, atau kode QR dinamis merchant telah kedaluwarsa.
+
+Kenapa transaksi QRIS saya dinyatakan gagal di toko namun saldo Kantong saya tetap terpotong?
+Gangguan settlement jaringan. Ajukan sanggahan resmi lewat aplikasi atau hubungi Tanya Jago di 1500 746 untuk refund saldo.
+
+Bagaimana cara melakukan log in akun menggunakan perangkat smartphone baru jika saya masih memegang HP lama?
+1. Ketik email/HP dan password di HP baru.
+2. Di HP lama, klik push notification "Ini Saya".
+3. Masukkan kode OTP SMS di HP baru dan buat PIN baru.
+
+Bagaimana cara melakukan log in akun menggunakan perangkat smartphone baru jika HP lama saya hilang atau rusak?
+1. Isi login di HP baru, pilih "Coba cara lain" di layar verifikasi.
+2. Masukkan nomor e-KTP dan jawab pertanyaan keamanan terdaftar.
+3. Masukkan kode OTP SMS di HP baru dan buat PIN baru.
+
+Bagaimana cara mengatasi kendala jika saya lupa nomor PIN aplikasi Jago?
+Uninstall aplikasi Jago, install ulang, lalu login dengan password. Masukkan OTP SMS, aplikasi akan memandu membuat PIN baru.
+
+Bagaimana cara mengatasi kendala jika saya lupa Password akun Jago saya?
+Pada halaman login, ketuk "Lupa Password", masukkan nomor HP/e-mail dan nomor e-KTP. Ambil foto selfie wajah (liveness check), buat password baru setelah OTP SMS terkonfirmasi.
+
+Bagaimana cara mengaktifkan login Biometrik (Fingerprint / Face ID)?
+Pilih Lainnya > Pengaturan (Gerigi) > aktifkan opsi "Sidik Jari/Touch ID" atau "Face ID".
+
+
+📁 SEKTOR 4: MANAJEMEN KANTONG (POCKETS) & KEBIJAKAN DORMAN
+Apakah yang dimaksud dengan fitur Kantong (Pocket) di Jago Syariah?
+Fitur pemisah dana digital berlandaskan Akad Wadi'ah Yad Dhamanah tanpa riba. Maksimal 60 Kantong dengan personalisasi nama, warna, dan emoji.
+
+Bagaimana cara mengatur fitur Auto-Budgeting otomatis ke banyak Kantong?
+1. Di halaman "Lainnya" / Shortcut, pilih "Buat Auto-Budgeting".
+2. Pilih Kantong Sumber Dana (Utama / Bayar).
+3. Pilih Kantong-kantong Tujuan, masukkan nominal budgeting, atur jadwal dan frekuensi, masukkan PIN.
+
+Bagaimana ketetapan kebijakan Penalti Kantong Tidak Aktif (Inactive / Dormant)?
+Berlaku mulai 10 Mei 2026.
+* Kantong Tidak Aktif (Inactive): Tidak ada transaksi finansial sadar nasabah > 360 hari berturut-turut. Denda Rp10.000/bulan didebet dari Kantong Utama setiap tanggal 26 (jika Kantong Utama juga tidak aktif) hingga saldo Rp0.
+* Kantong Dormant: Pasif > 1.800 hari berturut-turut. Memerlukan verifikasi identitas ulang (panggilan video/CS) untuk reaktivasi. Denda Rp10.000/bulan jika Utama dormant.
+* Pengecualian: Deposito Syariah, RDN, Kantong Haji, Kantong GoPay/Bibit/Stockbit bebas aturan dormant.
+* Saldo Rp0 selama 6 bulan berturut-turut akan menyebabkan akun ditutup permanen.
+
+
+🃏 SEKTOR 5: KARTU DEBIT JAGO (VISA & GPN)
+Apakah perbedaan fungsi spesifik antara Kartu Debit Jago Visa dan Kartu Debit Jago GPN?
+* Visa (Fisik & Digital): Transaksi online/offline internasional di merchant / ATM berlogo Visa/Alto.
+* GPN (Hanya Fisik): Transaksi offline ritel dan tarik tunai domestik di dalam negeri Indonesia.
+
+Berapa kartu debit gratis yang didapat nasabah?
+1 unit kartu fisik pertama gratis, dan 1 unit kartu digital pertama gratis. Kartu tambahan berikutnya dikenakan Rp40.000 per kartu.
+
+Bagaimana cara mengunci / memblokir sementara kartu debit jika hilang?
+Masuk menu Transaksi > Kartu Debit > Pilih Kartu > pilih "Kunci Kartu". Untuk membuka kembali, pilih "Buka Kunci Kartu" dan masukkan PIN.
+
+
+📈 SEKTOR 6: INVESTASI PASAR MODAL (RDN SYARIAH) & PLATFORM MITRA
+Apakah Akad dan Aturan yang berlaku pada Kantong RDN Syariah Jago?
+Berjalan menggunakan Akad Wadi'ah Yad Dhamanah (tanpa bunga). Hanya diperbolehkan untuk bertransaksi beli emiten yang masuk dalam Daftar Efek Syariah (DES) OJK di platform mitra (Stockbit). Saham non-syariah yang keluar dari DES wajib segera dijual.
+
+Bagaimana cara menarik saldo (withdrawal) dari Kantong RDN Syariah?
+Penarikan saldo RDN hanya boleh diajukan melalui menu permohonan penarikan dana di dalam aplikasi investasi mitra terhubung (Stockbit). Saldo akan dicairkan masuk ke Kantong Utama Jago Syariah.
+
+
+📁 SEKTOR 7: KANTONG BERSAMA & KANTONG BERBAGI (FITUR SOSIAL)
+Apakah yang dimaksud dengan fitur Kantong Bersama Jago Syariah?
+Fitur kolaborasi keuangan di mana nasabah mengubah Kantong personal menjadi multi-pengguna.
+* Pemilik Kantong: Memegang kontrol penuh, mengundang/mendepak anggota, mengatur limit, membuat target bersama.
+* Anggota Bisa Pakai: Bisa menggunakan dana (limit harian maksimal Rp10 juta), menyambung kartu debit, menabung.
+* Anggota Bisa Lihat: Hanya melihat mutasi transaksi dan menabung.
+* Lintas Akun: Pengguna Jago Syariah boleh mengundang pengguna Jago konvensional sebagai kolaborator (Akad Wadi'ah), tetapi pengguna Jago Syariah dilarang keras bergabung di Kantong Bersama konvensional (unsur riba).
+
+Apakah yang dimaksud dengan Kantong Berbagi?
+Fitur membagikan uang hadiah/THR ke banyak penerima lewat tautan link https://jadi.jago.com/ (mendarat di Jago/GoPay penerima tanpa potongan biaya). Limit minimum Rp10.000, maksimal Rp10.000.000 (GoPay) / Rp99.999.999.999 (Jago).
+
+
+🎁 SEKTOR 8: MANFAAT AKUN (TIERING BENEFIT) & SYARIAH PLUS
+Apa saja kuota gratis program Manfaat Akun di Jago Syariah?
+Gratis biaya admin bulanan selamanya. Setiap nasabah mendapatkan gratis:
+* 20x transfer antar-bank & top up e-wallet per bulan (selanjutnya dikenakan Rp2.500 per transaksi).
+* Unlimited top up GoPay gratis.
+* 3x tarik tunai ATM Bersama gratis per bulan.
+
+Apakah yang dimaksud dengan Kuota Tambahan Syariah Plus?
+Paket tambahan seharga Rp5.000 sekali beli per bulan untuk mendapatkan 10x kuota transfer tambahan (menitipkan harga transfer hanya Rp500/transaksi). Berlaku sistem hangus di akhir bulan.
+
+
+📜 SEKTOR 9: PROSEDUR PENGADUAN NASABAH & SANGGAHAN TRANSAKSI (DISPUTE)
+Bagaimana cara melakukan sanggahan transaksi resmi (dispute) di Jago?
+Pilih transaksi sukses di mutasi > klik ikon Tanya (?) "Saya Masih Butuh Bantuan" > isi formulir kronologi dan bukti pendukung. Batas pengaduan maksimal 14 hari kalender dari tanggal transaksi.
+* Pengaduan Lisan: CS akan menyelesaikan dalam maksimal 5 hari kerja.
+* Pengaduan Tertulis (Email tanya@jago.com, website, atau surat ke Menara BTPN Lt.46 Jkt): Diselesaikan dalam 10 hari kerja (bisa diperpanjang 10 hari jika rumit). Melampirkan e-KTP, Surat Kuasa jika diwakilkan, dan kronologi tertulis.
+* Sengketa Lanjutan: Dapat diajukan ke LAPS SJK (Wisma Mulia 2 Lt.16 Jkt, telp 021-29600292).
+
+
+🏦 SEKTOR 10: INTEGRASI GOPAY TABUNGAN SYARIAH, KANTONG BISNIS & JAGO AMAL
+Apakah keuntungan menggunakan GoPay Tabungan Syariah by Jago?
+Integrasi tabungan dengan Akad Wadi'ah Yad Dhamanah di aplikasi Gojek/GoPay. Bebas saldo minimum, bebas admin, dilindungi garansi saldo kembali GoPay jika dicuri (terkecuali akibat kelalaian nasabah/peretasan OTP).
+
+Apakah yang dimaksud dengan fitur Jago Amal?
+Penyaluran zakat dan sedekah berlandaskan Akad Wakalah ke organisasi amil terpercaya (BAZNAS, Dompet Dhuafa, Rumah Zakat).
+* Zakat Maal (Nisab setara 85 gram emas, kadar 2,5%).
+* Doa Niat Zakat: "Nawaitu an ukhrija zakaata maalii fardhan lillaahi taaalaa" (Aku niat mengeluarkan zakat harta dari diriku sendiri fardhu karena Allah Ta'ala).
+* Bukti Setor Zakat resmi dapat diajukan ke amil masing-masing untuk pengurang pajak penghasilan tahunan (PTKP).
+
+
+📈 SEKTOR TAMBAHAN B: PRODUK INVESTASI DEPOSITO SYARIAH JAGO
+Bagaimana pembagian keuntungan pada Deposito Syariah Jago?
+Menggunakan Nisbah Bagi Hasil berlandaskan Akad Mudharabah Muthlaqah (bukan suku bunga riba). Keuntungan dibagi antara nasabah (Shohibul Mal) dan Jago (Mudharib) sesuai fluktuasi laba aktual bank.
+* Aturan bagi hasil (estimasi keuntungan setara per tahun):
+  - Rp1.000.000 - Rp49.999.999: Nisbah Nasabah 12,61% (setara ~4% per tahun)
+  - Rp50.000.000 - Rp99.999.999: Nisbah Nasabah 13,51% (setara ~4,25% per tahun)
+  - >= Rp100.000.000: Nisbah Nasabah 16,21% (setara ~5% per tahun)
+* Tenor: 1 - 24 bulan. Dapat dicairkan lebih awal tanpa denda, namun bagi hasil disesuaikan jumlah hari riil mengendap.
+* 3 Pilihan Perpanjangan: Off (Aro Off), Pokok saja (Aro), atau Pokok + Bagi Hasil (Aro Plus).
+
+
+📅 SEKTOR TAMBAHAN C: FITUR RENCANAKAN (PLAN AHEAD) & OTOMATISASI PEMBAYARAN
+Bagaimana cara kerja fitur Rencanakan (Plan Ahead)?
+Otomatisasi pengeluaran terjadwal: transfer, e-wallet, pulsa, tagihan kartu kredit, listrik PLN.
+* Mode Semi-Otomatis (Selalu Ingatkan Saya): Meminta konfirmasi manual di HP saat jatuh tempo.
+* Mode Full-Otomatis (Pembayaran Otomatis): Langsung mendebet dana dari Kantong saat jatuh tempo.
+* Limit pengiriman luar bank: BI-FAST (Rp250 juta/hari), RTGS (Rp1 miliar/hari, Senin-Jumat 07.00-12.00 WIB), Online (Rp100 juta/hari, 24 jam).
+
+
+💸 SEKTOR TAMBAHAN D: FITUR TAGIH UANG (REQUEST MONEY)
+Bagaimana cara menggunakan fitur Tagih Uang?
+Pilih menu Tagih Uang > pilih Kontak > masukkan nominal (atau pilih "Kirim ke Banyak" untuk membagi porsi rata/manual) > kirim tagihan. Pembayar melunasi lewat klik konfirmasi pembayaran di menu Lonceng browser/aplikasi.
+
+
+📱 SEKTOR TAMBAHAN E: FITUR ANALISIS PENGELUARAN (SPENDING ANALYSIS)
+Apakah kegunaan fitur Analisis Pengeluaran?
+Mengelompokkan transaksi keluar bulanan secara otomatis menggunakan teknologi Machine Learning demi menyajikan grafik alokasi anggaran belanja personal.
+
+
+🔒 SEKTOR TAMBAHAN F: PENGATURAN GLOBAL NOTIFIKASI, BIOMETRIK & KEAMANAN AKUN
+Bagaimana cara kerja fitur Autentikasi Transaksi?
+Membatasi limit transfer harian yang bebas dari password. Di bawah limit cukup pakai PIN/Sidik jari. Di atas limit, sistem mewajibkan pengisian password akun sebagai proteksi lapis ganda.
+
+
+📜 SEKTOR TAMBAHAN G: PEMBARUAN DOKUMEN, PERPINDAHAN AKUN & KEBIJAKAN KHUSUS
+Bagaimana kebijakan Perpindahan Akun dari Jago Konvensional ke Jago Syariah?
+Konversi instan gratis, namun nomor Kantong/rekening akan berubah total, mutasi lama disembunyikan (tetap ada di e-Statement bulanan), dan analisis pengeluaran direset.
+* Penting: Dilarang melakukan konversi migrasi pada 3 hari terakhir di setiap akhir bulan kalender berjalan (proses tutup buku bank).
+* Syarat Migrasi: Kantong terkunci konvensional harus dicairkan dulu, keluar dari Kantong Bersama konvensional, dan tutup RDN konvensional di sekuritas.
+* Setelah Hijrah: Segera bagikan nomor rekening baru, perbarui data payroll HRD gaji, dan perbarui rekening pencairan di e-commerce/aplikasi reksadana.
+* Penutupan Akun Permanen: Menghapus akun akan membatalkan KTP terdaftar secara permanen, sehingga nasabah dilarang mendaftar kembali di masa depan memakai KTP yang sama.
